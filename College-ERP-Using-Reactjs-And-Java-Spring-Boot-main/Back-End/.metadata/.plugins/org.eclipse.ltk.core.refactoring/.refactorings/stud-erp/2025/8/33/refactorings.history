@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;stud-erp/src/main/resources/serviceAccountKey.json.json&apos; to &apos;serviceAccountKey.json&apos;" description="Rename resource &apos;serviceAccountKey.json.json&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/serviceAccountKey.json.json" name="serviceAccountKey.json" stamp="1754827933765" updateReferences="true"/>
+</session>

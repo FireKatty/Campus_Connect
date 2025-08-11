@@ -1,0 +1,5 @@
+package com.example.stud_erp.configuration;
+
+public class WebConfig {
+
+}
